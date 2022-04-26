@@ -1,0 +1,13 @@
+C:\Users\lazar\Desktop\PripremazatestOOP\Pripremazakonoop\Pripremazakonoop\bin\Debug\netcoreapp3.1\Pripremazakonoop.exe
+C:\Users\lazar\Desktop\PripremazatestOOP\Pripremazakonoop\Pripremazakonoop\bin\Debug\netcoreapp3.1\Pripremazakonoop.deps.json
+C:\Users\lazar\Desktop\PripremazatestOOP\Pripremazakonoop\Pripremazakonoop\bin\Debug\netcoreapp3.1\Pripremazakonoop.runtimeconfig.json
+C:\Users\lazar\Desktop\PripremazatestOOP\Pripremazakonoop\Pripremazakonoop\bin\Debug\netcoreapp3.1\Pripremazakonoop.runtimeconfig.dev.json
+C:\Users\lazar\Desktop\PripremazatestOOP\Pripremazakonoop\Pripremazakonoop\bin\Debug\netcoreapp3.1\Pripremazakonoop.dll
+C:\Users\lazar\Desktop\PripremazatestOOP\Pripremazakonoop\Pripremazakonoop\bin\Debug\netcoreapp3.1\Pripremazakonoop.pdb
+C:\Users\lazar\Desktop\PripremazatestOOP\Pripremazakonoop\Pripremazakonoop\obj\Debug\netcoreapp3.1\Pripremazakonoop.csprojAssemblyReference.cache
+C:\Users\lazar\Desktop\PripremazatestOOP\Pripremazakonoop\Pripremazakonoop\obj\Debug\netcoreapp3.1\Pripremazakonoop.AssemblyInfoInputs.cache
+C:\Users\lazar\Desktop\PripremazatestOOP\Pripremazakonoop\Pripremazakonoop\obj\Debug\netcoreapp3.1\Pripremazakonoop.AssemblyInfo.cs
+C:\Users\lazar\Desktop\PripremazatestOOP\Pripremazakonoop\Pripremazakonoop\obj\Debug\netcoreapp3.1\Pripremazakonoop.csproj.CoreCompileInputs.cache
+C:\Users\lazar\Desktop\PripremazatestOOP\Pripremazakonoop\Pripremazakonoop\obj\Debug\netcoreapp3.1\Pripremazakonoop.dll
+C:\Users\lazar\Desktop\PripremazatestOOP\Pripremazakonoop\Pripremazakonoop\obj\Debug\netcoreapp3.1\Pripremazakonoop.pdb
+C:\Users\lazar\Desktop\PripremazatestOOP\Pripremazakonoop\Pripremazakonoop\obj\Debug\netcoreapp3.1\Pripremazakonoop.genruntimeconfig.cache
